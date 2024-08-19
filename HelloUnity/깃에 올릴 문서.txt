@@ -1,0 +1,5 @@
+Assets
+packages
+ProjectSettings
+
+만 깃허브에 올려도 되고 나머지는 무시
